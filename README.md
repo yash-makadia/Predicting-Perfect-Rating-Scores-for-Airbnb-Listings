@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-Welcome to data mining project focused on predicting perfect rating scores for Airbnb listings. This project was completed as a group project for the course BUDT 758T: Data Mining and Predictive Analytics, using R as our primary programming language. Our team aimed to leverage advanced data mining techniques in R to analyze a comprehensive dataset and develop a predictive model that accurately predicts whether an Airbnb listing would achieve a perfect rating score or not. Extensive feature engineering was performed in R to enhance our model's performance.
+Welcome to data mining project focused on predicting perfect rating scores for Airbnb listings. This project was completed as a group project for the course BUDT 758T: Data Mining and Predictive Analytics, using R as our primary programming language. As a group of passionate graduate students in MSIS of the University of Maryland College Park, we aimed to leverage advanced data mining techniques in R to analyze a comprehensive dataset and develop a predictive model that accurately predicts whether an Airbnb listing would achieve a perfect rating score or not. Extensive feature engineering was performed in R to enhance our model's performance.
 
 ## Project Summary
 
